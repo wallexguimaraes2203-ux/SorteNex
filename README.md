@@ -16,8 +16,6 @@ hum<p align="center">
   <br>
   <b>Available in</b>
   <br>
-  <img src="https://i.imgur.com/IPiAUZi.png">
-</p>
-
+  
 
 
