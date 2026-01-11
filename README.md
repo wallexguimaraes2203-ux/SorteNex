@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="https://github.com/wallexguimaraes2203-ux/SorteNex/issues/1#issue-3800717948">
+<img src="https://github.com/wallexguimaraes2203-ux/SorteNex/issues/1#issue-3800717948">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3-brightgreen.svg?style=plastic">
